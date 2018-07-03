@@ -4,4 +4,3 @@
 	define('DB_USER', 'root');
 	define('DB_PASS', 'SuyashD95');
 	define('DB_NAME', 'phpblog');
-?>

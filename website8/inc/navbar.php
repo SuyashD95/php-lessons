@@ -6,8 +6,7 @@
 
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
-          <li>
-            <a class="nav-link" href="<?php echo ROOT_URL; ?>">Home <span class="sr-only">(current)</span></a>
-          </li>
+          <li><a class="nav-link" href="<?php echo ROOT_URL; ?>">Home</a></li>
+          <li><a class="nav-link" href="<?php echo ROOT_URL; ?>addpost.php">Add Post</a></li>
       </div>
     </nav>
